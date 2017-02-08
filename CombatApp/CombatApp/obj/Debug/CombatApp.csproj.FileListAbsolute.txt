@@ -1,0 +1,6 @@
+c:\users\akroma\documents\visual studio 2015\Projects\CombatApp\CombatApp\bin\Debug\CombatApp.exe.config
+c:\users\akroma\documents\visual studio 2015\Projects\CombatApp\CombatApp\bin\Debug\CombatApp.exe
+c:\users\akroma\documents\visual studio 2015\Projects\CombatApp\CombatApp\bin\Debug\CombatApp.pdb
+c:\users\akroma\documents\visual studio 2015\Projects\CombatApp\CombatApp\obj\Debug\CombatApp.csprojResolveAssemblyReference.cache
+c:\users\akroma\documents\visual studio 2015\Projects\CombatApp\CombatApp\obj\Debug\CombatApp.exe
+c:\users\akroma\documents\visual studio 2015\Projects\CombatApp\CombatApp\obj\Debug\CombatApp.pdb
